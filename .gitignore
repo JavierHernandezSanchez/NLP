@@ -1,3 +1,6 @@
 .ipynb_checkpoints
 __pycache__/
+c4_week3/examples/HuggingFace/model_results/
+c4_week3/examples/HuggingFace/distilbert-base-cased-distilled-squad/
+c4_week3/examples/HuggingFace/tydiqa_data/
 
